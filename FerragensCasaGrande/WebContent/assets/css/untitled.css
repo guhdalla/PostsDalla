@@ -1,0 +1,8 @@
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(105,136,228,0);
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem rgba(105,136,228,0);
+}
+
